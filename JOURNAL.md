@@ -17,6 +17,7 @@ but yeah then i moved to CAD and i made a simple motor mount with the mounting p
 So yeah this is the motor mount i made 
 ![motor mount](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c2b7d17c5a1343562fe8c3323d43260965ef3086_screenshot_2025-06-05_203219.png)
 ![motor mount sketch](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a7cf574c03520657d1a7f91904d16ddc83e1647a_screenshot_2025-06-05_191933.png)
+
 I know the sketch is really messy but my brother taught me a way to make it way neater so in the future im going to use that!
 
 **Total time spent: 2h**
