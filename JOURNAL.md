@@ -34,4 +34,15 @@ So after these two drawing i was able to make the CAD sketch way better so yeah 
 
 I went more like the design of the bubito frame design but with my own stuff like touches and stuff yeah i really like it!
 
-**Total time spent: 3h**
+So then after i started to actually make the arms and the arms are 45dg and they are in a X so they intersect perfectly and make a X but yeah also i made that
+
+![frame sketch](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eccae23f2b981bca60fe910f9b7c632d0fab7a5e_screenshot_2025-06-07_122514.png)
+
+I'm really happy how this is turning also this gets me really excited to then build it!
+then i rounded the corners in the sketch changed a bit the front and added holes so that it then gets lighter (im changing the holes so that they are totally different)
+
+![frame sketch](https://hc-cdn.hel1.your-objectstorage.com/s/v3/10b5760839abf06d6429286d8111e43a641b4bf1_screenshot_2025-06-07_125604.png)
+
+![frame 3D](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0019013dc828ca73588950c41143e9a0c7f658e8_screenshot_2025-06-07_125551.png)
+
+**Total time spent: 3:30h**
