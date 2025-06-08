@@ -21,3 +21,17 @@ So yeah this is the motor mount i made
 I know the sketch is really messy but my brother taught me a way to make it way neater so in the future im going to use that!
 
 **Total time spent: 2h**
+
+# June 7th: Making the real CAD model!
+
+So i started by trying to make a rough sketch in CAD of the whole frame but it was too hard to start making it from almost 0 so i went over again to my sketch book and make these 2 drawings
+
+the one on the right was my final design i really like how it looks
+![drone sketch](https://hc-cdn.hel1.your-objectstorage.com/s/v3/76a51010c20bc6b8aa92dc081de6cd96daa8446d_win_20250608_10_39_50_pro.jpg)
+
+So after these two drawing i was able to make the CAD sketch way better so yeah this is how it turned out
+![drone frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6356bc86a699688d161d01dd80ddd2de4779a789_screenshot_2025-06-07_121543.png)
+
+I went more like the design of the bubito frame design but with my own stuff like touches and stuff yeah i really like it!
+
+**Total time spent: 3h**
