@@ -46,3 +46,28 @@ then i rounded the corners in the sketch changed a bit the front and added holes
 ![frame 3D](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0019013dc828ca73588950c41143e9a0c7f658e8_screenshot_2025-06-07_125551.png)
 
 **Total time spent: 3:30h**
+
+# June 9th: Almost Ready! + printed prototype
+
+So i started by taking the old holes and adding just some holes for straps so that i can attach the battery but then it looked like the arms where too weak because of the holes so on slack i asked what people thought of it and @Ben Park simulated the frame for me and that helped a lot and the holes can stay there ty @Ben Park!
+
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/265cc1ade968c5f2f1ab24efe96efd30fa85603c_screenshot_2025-06-08_152237.png)
+
+![frame simulation](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fe143b306203ae73b464f6d36bbf83448cdef9d8_image__2_.png)
+
+![frame simulation](https://hc-cdn.hel1.your-objectstorage.com/s/v3/56503fff4b2b7e73fc879164da5d0756300f241d_image__1_.png)
+
+![frame simulation](https://hc-cdn.hel1.your-objectstorage.com/s/v3/63b3e793228f5d1538ad73590c602a8ed7703c4b_image.png)
+
+With knowing this i went on and made more changes!
+
+Made the top part of the frame! still working on it but pretty happy with how it turned out I added also holes for the strap on top so that you can choose to use the battery on top of the drone or on the bottom. I also 3D printed a little version 1:1 scale and its so tiny but i think thats what it makes it so cool.
+then i added some 3D models of the components that i found and looks soo cool actually im so excited!
+
+![Drone](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dccd953bf8c05a6561c409d6cdfceb011042c177_win_20250609_10_36_41_pro.jpg)
+![Drone](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9f394ba08b05ea5daa0d60982eb45c4729ceac43_win_20250609_10_36_53_pro.jpg)
+![Drone](https://hc-cdn.hel1.your-objectstorage.com/s/v3/98f06c4d98807d8b983f27c9d9b1da791571e865_screenshot_2025-06-09_103707.png)
+![Drone](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1f00e750d483d454a4e430801b13a3fea407227f_screenshot_2025-06-08_202304.png)
+![Drone](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8434b755027dfea841f3a8e8e551c33d4ce37ea6_screenshot_2025-06-08_202300.png)
+
+**Total time spent: 4h**
