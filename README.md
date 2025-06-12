@@ -1,5 +1,7 @@
 # BRUV-mini
-A tiny whoop build with a custom frame made for highway
+A tiny whoop build with a custom frame made for highway!
+
+It has a wheelbase of 75mm
 
 Some photos of the drone rn
 
