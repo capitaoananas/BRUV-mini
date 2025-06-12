@@ -71,3 +71,20 @@ then i added some 3D models of the components that i found and looks soo cool ac
 ![Drone](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8434b755027dfea841f3a8e8e551c33d4ce37ea6_screenshot_2025-06-08_202300.png)
 
 **Total time spent: 4h**
+
+# June 9th: Remade the Frame!
+
+So today i remade the frame with the things that i already knew but like its true to its original design i just remade the sketch so everything is a bit more clean still i changed a few things and i like this version more also 3D printed it its really cool 
+
+**Total time spent: 1h**
+
+# June 12th: Mounts!
+
+Today i started making the camera mount and the antenna mount and they are looking pretty good i took inspiration on some mounts that i saw on the internet. Then i made these renders and printed some test pieces and they work pretty well.
+
+![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f4e4da85feec8a0dba3f21e50d8a119f62831bd_mini_drone_frame_2025-jun-12_03-24-35pm-000_customizedview15170929896.png)
+![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd0f6015f9e2e8982eb5450ec031ed1e8dcf34ab_mini_drone_frame_2025-jun-12_03-32-30pm-000_customizedview33476468584.png)
+![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c7a732422ddc65ffb56d95d5c2db8654ff6ba528_mini_drone_frame_2025-jun-12_03-33-45pm-000_customizedview23452069027.png)
+![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45ded27c9e98514d4d0557f3b4dc4cd2a47f5451_mini_drone_frame_2025-jun-12_03-35-29pm-000_customizedview38184516535.png)
+
+**Total time spent: 3h**
