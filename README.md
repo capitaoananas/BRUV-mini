@@ -12,8 +12,8 @@ The frame was fully made in Fusion.
 
 | Part                         | Quantity | Price  | Link                                                                                                          | Notes                                                           |
 | ---------------------------- | -------- | ------ | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| dji goggles n3               | 1        | $ |                                                                                                             |
-| air unit pro                 | 1        | $ |                                                                                                             |
+| Matrix 1S FC (5in1)          | 1        | $57.45 | [tinywhoop](https://www.tinywhoop.com/collections/electronics/products/matrixfc)                              |
+| CADDXFPV Ant Lite Camera     | 1        | $15.90 |                                                                                                             |
 | ikon 3.5 evo frame           | 1        | $ |                                                                                                               |
 | 2 extra arms                 | 1        | $ |                                                                                                               |
 | radiomaster elrs transmitter | 1        | $ |                                                                                                               |
