@@ -17,8 +17,8 @@ The frame was fully made in Fusion.
 | 802 30KKV Motors             | 1        | $47.10 | [tinywhoop](https://www.tinywhoop.com/collections/802-motors/products/802-30kkv-rockets-project-topspin-tiny-whoop-motors) |
 | Gemfan 35mm props            | 4        | $13.56 | [tinywhoop](https://www.tinywhoop.com/products/gemfan-3-bladed-35mm-1mm-shaft-props?variant=42160686497956)                |
 | BT2.0 300mAh 1S battery      | 8        | $29.99 | [betafpv](https://betafpv.com/collections/batt-1s/products/bt2-0-300mah-1s-30c-battery-8pcs)                               |
-| Straps                       | 1        | $ |                                                                                                                                 |Not sure which ones yet
-| GNB 850mah 120c batteries    | 1        | $ |                                                                                                                                 |
+| Straps                       | 2        | $ |                                                                                                                                 |Not sure which ones yet
+| Custom frame                 | 1        | $ |                                                                                                                                 |Havent found a good manufacturer
 
 
 Total: `$0`  
