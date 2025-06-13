@@ -12,16 +12,16 @@ The frame was fully made in Fusion.
 
 | Part                         | Quantity | Price  | Link                                                                                                          | Notes                                                           |
 | ---------------------------- | -------- | ------ | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| dji goggles n3               | 1        | $229   |                                                                                                               |
-| air unit pro                 | 1        | $229   |                                                                                                               |
-| ikon 3.5 evo frame           | 1        | $43.95 |                                                                                                               |
-| 2 extra arms                 | 1        | $10.00 |                                                                                                               |
-| radiomaster elrs transmitter | 1        | $18.99 |                                                                                                               |
-| xing2 1404 motors            | 4        | $23.49 |                                                                                                               |
-| Gemfan 3525 props            | 2        | $3.49  |                                                                                                               |
-| speedybee f405 aio           | 1        | $55.99 |                                                                                                               |
-| vifly finder 2 beeper        | 1        | $19.49 |                                                                                                               |
-| GNB 850mah 120c batteries    | 1        | $41.99 |                                                                                                               |
-|                              |
+| dji goggles n3               | 1        | $ |                                                                                                             |
+| air unit pro                 | 1        | $ |                                                                                                             |
+| ikon 3.5 evo frame           | 1        | $ |                                                                                                               |
+| 2 extra arms                 | 1        | $ |                                                                                                               |
+| radiomaster elrs transmitter | 1        | $ |                                                                                                               |
+| xing2 1404 motors            | 4        | $ |                                                                                                               |
+| Gemfan 3525 props            | 2        | $ |                                                                                                              |
+| speedybee f405 aio           | 1        | $ |                                                                                                               |
+| vifly finder 2 beeper        | 1        | $ |                                                                                                               |
+| GNB 850mah 120c batteries    | 1        | $ |                                                                                                               |
 
-Total: `$749.35`  
+
+Total: `$0`  
