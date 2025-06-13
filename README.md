@@ -13,8 +13,8 @@ The frame was fully made in Fusion.
 | Part                         | Quantity | Price  | Link                                                                                                          | Notes                                                           |
 | ---------------------------- | -------- | ------ | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Matrix 1S FC (5in1)          | 1        | $57.45 | [tinywhoop](https://www.tinywhoop.com/collections/electronics/products/matrixfc)                              |
-| CADDXFPV Ant Lite Camera     | 1        | $15.90 |                                                                                                             |
-| ikon 3.5 evo frame           | 1        | $ |                                                                                                               |
+| CADDXFPV Ant Lite Camera     | 1        | $15.90 | [caddxfpv](https://caddxfpv.com/products/caddxfpv-ant-lite-4-3-fpvcycle-edition)                              |
+| 802 30KKV Motors             | 1        | $47.10 | [tinywhoop](https://www.tinywhoop.com/collections/802-motors/products/802-30kkv-rockets-project-topspin-tiny-whoop-motors)   |
 | 2 extra arms                 | 1        | $ |                                                                                                               |
 | radiomaster elrs transmitter | 1        | $ |                                                                                                               |
 | xing2 1404 motors            | 4        | $ |                                                                                                               |
