@@ -20,5 +20,4 @@ The frame was fully made in Fusion.
 | Straps                       | 2        | $ |                                                                                                                                 |Not sure which ones yet
 | Custom frame                 | 1        | $ |                                                                                                                                 |Havent found a good manufacturer
 
-
-Total: `$0`  
+Total: `$164.00`  
