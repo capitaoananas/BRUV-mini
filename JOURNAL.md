@@ -97,6 +97,6 @@ here is how the frame turned out its not yet really ready but yeah
 
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c798b496c80a725dc410b5cfa0e614c4be2cf82c_screenshot_2025-06-19_183748.png)
 
-also i realized that its cheaper to buy a prebuilt tinywhoop for the pieces its actually cheaper because the prebuild already comes with motors, flight cotroller, camera, props. so i need to see if it actually is better
+also i realized that its cheaper to buy a prebuilt tinywhoop for the pieces its actually cheaper because the prebuild already comes with motors, flight cotroller, camera, props. so i need to see if it actually is better because like that i could just dismantle the prebuilt and take the parts and add them to my frame.
 
 **Total time spent: 3h**
