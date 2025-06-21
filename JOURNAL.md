@@ -1,4 +1,4 @@
-[---
+---
 title: "BRUV_mini"
 author: "Lukas"
 description: "A tiny whoop drone with a custom frame! the name is still a WIP"
@@ -88,4 +88,15 @@ Today i started making the camera mount and the antenna mount and they are looki
 ![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45ded27c9e98514d4d0557f3b4dc4cd2a47f5451_mini_drone_frame_2025-jun-12_03-35-29pm-000_customizedview38184516535.png)
 
 **Total time spent: 3h**
-](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c798b496c80a725dc410b5cfa0e614c4be2cf82c_screenshot_2025-06-19_183748.png)
+
+# June 19th: Had to remake part of the frame.
+
+so i realized that the actuall props i'm planning on using on the drone would not fit and would just hit in the frame so yeah that was a bummer. So i had to remake lots of things and actually kinda like it more like how it turned out now its also a squished X instead of a true X but yeah there is not much i could have done to make the props not hit.
+
+here is how the frame turned out its not yet really ready but yeah
+
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c798b496c80a725dc410b5cfa0e614c4be2cf82c_screenshot_2025-06-19_183748.png)
+
+also i realized that its cheaper to buy a prebuilt tinywhoop for the pieces its actually cheaper because the prebuild already comes with motors, flight cotroller, camera, props. so i need to see if it actually is better
+
+**Total time spent: 3h**
