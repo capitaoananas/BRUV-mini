@@ -1,6 +1,6 @@
 # BRUV-mini
 
-A 75mm tinywhoop custom frame!
+A 75mm tinywhoop that is designed to be used indoors and outdoors on good conditions with a custom designed frame inspierd by the bubito drone by bubby fpv
 
 ## BOM
 
