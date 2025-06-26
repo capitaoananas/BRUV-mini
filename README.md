@@ -16,6 +16,7 @@ A 75mm tinywhoop that is designed to be used indoors and outdoors on good condit
 | m2x10 screws                 | 4        | $ |                                                                                                                                 |
 | m2x5 screws                  | 6        | $ |                                                                                                                                 |
 | nylon m2 nuts                | 4        | $ |                                                                                                                                 |
+| 15mm knurled standoffs       | 3        | $ |                                                                                                                                 |
 
 Total: `$164.00`  
 
