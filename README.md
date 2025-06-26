@@ -18,7 +18,7 @@ A 75mm tinywhoop that is designed to be used indoors and outdoors on good condit
 | nylon m2 nuts                | 8        | $1.31 | [aliexpress](https://pt.aliexpress.com/item/1005005203028580.html?spm=a2g0o.productlist.main.2.6a7e5165o0YQSd&algo_pvid=45368365-0c47-445c-9c74-579d4e111e16&algo_exp_id=45368365-0c47-445c-9c74-579d4e111e16-1&pdp_ext_f=%7B%22order%22%3A%221018%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%211.40%211.37%21%21%2111.44%2111.22%21%402103963717509350799621704ecaa1%2112000032138763289%21sea%21PT%216372042523%21X&curPageLogUid=AHVCUEDyPIY6&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                                                                                                                                            |
 | 15mm knurled standoffs       | 3        | $6.37 | [aliexpress](https://pt.aliexpress.com/item/1005005810774457.html?spm=a2g0o.productlist.main.3.20f61bdajVHzGg&algo_pvid=bb176965-0b02-4a77-bf54-9e09ce67162b&algo_exp_id=bb176965-0b02-4a77-bf54-9e09ce67162b-2&pdp_ext_f=%7B%22order%22%3A%2250%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%217.25%215.44%21%21%2159.31%2144.48%21%40211b61a417509352292755226ebd25%2112000034433113679%21sea%21PT%216372042523%21X&curPageLogUid=bLHMrNpa8XPI&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                                                  |
 
-Total: `$164.00`  
+Total: `$178.44`  
 
 The frame was fully made in Fusion.
 ![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f4e4da85feec8a0dba3f21e50d8a119f62831bd_mini_drone_frame_2025-jun-12_03-24-35pm-000_customizedview15170929896.png)
