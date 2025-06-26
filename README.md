@@ -15,6 +15,7 @@ A 75mm tinywhoop that is designed to be used indoors and outdoors on good condit
 | Custom frame                 | 1        | $ |                                                                                                                                 |Havent found a good manufacturer
 | m2x10 screws                 | 4        | $ |                                                                                                                                 |
 | m2x5 screws                  | 6        | $ |                                                                                                                                 |
+| nylon m2 nuts                | 4        | $ |                                                                                                                                 |
 
 Total: `$164.00`  
 
