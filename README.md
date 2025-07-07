@@ -1,6 +1,6 @@
 # BRUV-mini
 
-A 75mm tinywhoop that is designed to be used indoors and outdoors on good conditions with a custom designed frame inspierd by the bubito drone by bubby fpv
+A 75mm tinywhoop that is designed to be used indoors and outdoors on good conditions with a custom designed frame
 
 ## BOM
 
@@ -15,11 +15,5 @@ A 75mm tinywhoop that is designed to be used indoors and outdoors on good condit
 | m2x10 screws                 | 4        | $3.48 |  [aliexpress](https://pt.aliexpress.com/item/1005007249068859.html?spm=a2g0o.productlist.main.8.6989I79zI79zVA&aem_p4p_detail=202506260340284968824308862000002391743&algo_pvid=2a686818-4f1a-44a3-acba-2a08d97918e9&algo_exp_id=2a686818-4f1a-44a3-acba-2a08d97918e9-7&pdp_ext_f=%7B%22order%22%3A%221703%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%212.97%212.97%21%21%213.39%213.39%21%402103847817509344282103700eb368%2112000039947102296%21sea%21PT%216372042523%21X&curPageLogUid=LIRkOpvgeLgl&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506260340284968824308862000002391743_2)                                         |
 | nylon m2 nuts                | 8        | $1.31 | [aliexpress](https://pt.aliexpress.com/item/1005005203028580.html?spm=a2g0o.productlist.main.2.6a7e5165o0YQSd&algo_pvid=45368365-0c47-445c-9c74-579d4e111e16&algo_exp_id=45368365-0c47-445c-9c74-579d4e111e16-1&pdp_ext_f=%7B%22order%22%3A%221018%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%211.40%211.37%21%21%2111.44%2111.22%21%402103963717509350799621704ecaa1%2112000032138763289%21sea%21PT%216372042523%21X&curPageLogUid=AHVCUEDyPIY6&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                                                                                                                                            |
 
-
 Total: `$148.99`  
 
-The frame was fully made in Fusion.
-![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f4e4da85feec8a0dba3f21e50d8a119f62831bd_mini_drone_frame_2025-jun-12_03-24-35pm-000_customizedview15170929896.png)
-![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd0f6015f9e2e8982eb5450ec031ed1e8dcf34ab_mini_drone_frame_2025-jun-12_03-32-30pm-000_customizedview33476468584.png)
-![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c7a732422ddc65ffb56d95d5c2db8654ff6ba528_mini_drone_frame_2025-jun-12_03-33-45pm-000_customizedview23452069027.png)
-![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/45ded27c9e98514d4d0557f3b4dc4cd2a47f5451_mini_drone_frame_2025-jun-12_03-35-29pm-000_customizedview38184516535.png)
