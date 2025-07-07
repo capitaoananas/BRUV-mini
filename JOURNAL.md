@@ -105,4 +105,10 @@ also i realized that its cheaper to buy a prebuilt tinywhoop for the pieces its 
 
 Becasue i did not like all the designs that i was getting i decided to just go back to the drawing board and really decide the type of frame that i want so thats just what i did! i found a desingn that i like! finnaly it has already been sometime that i touch on this project by im happy that im doing it again!
 
-![video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d1ed1e1b700cc91764713f827c0f319424741f68_img_5182.mp4)
+So i went to Fusion and worked a while making the frame and its exactly as i want it!
+
+Frame                                                                                                         |  Canopy
+:-------------------------:|:-------------------------:|:---------------------:
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e33bbe683cd663bb4d46281ef91bc87a583bc95_image.png)  |  ![Canopy]()
+
+
