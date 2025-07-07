@@ -100,3 +100,9 @@ here is how the frame turned out its not yet really ready but yeah
 also i realized that its cheaper to buy a prebuilt tinywhoop for the pieces its actually cheaper because the prebuild already comes with motors, flight cotroller, camera, props. so i need to see if it actually is better because like that i could just dismantle the prebuilt and take the parts and add them to my frame.
 
 **Total time spent: 3h**
+
+# July 7th: Tottally new design!
+
+Becasue i did not like all the designs that i was getting i decided to just go back to the drawing board and really decide the type of frame that i want so thats just what i did! i found a desingn that i like! finnaly it has already been sometime that i touch on this project by im happy that im doing it again!
+
+![video](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d1ed1e1b700cc91764713f827c0f319424741f68_img_5182.mp4)
