@@ -16,7 +16,7 @@ A 75mm tinywhoop that is designed to be used indoors and outdoors on good condit
 | nylon m2 nuts                | 8        | $1.31 | [aliexpress](https://pt.aliexpress.com/item/1005005203028580.html?spm=a2g0o.productlist.main.2.6a7e5165o0YQSd&algo_pvid=45368365-0c47-445c-9c74-579d4e111e16&algo_exp_id=45368365-0c47-445c-9c74-579d4e111e16-1&pdp_ext_f=%7B%22order%22%3A%221018%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%211.40%211.37%21%21%2111.44%2111.22%21%402103963717509350799621704ecaa1%2112000032138763289%21sea%21PT%216372042523%21X&curPageLogUid=AHVCUEDyPIY6&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                                                                                                                                            |
 
 
-Total: `$178.44`  
+Total: `$148.99`  
 
 The frame was fully made in Fusion.
 ![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f4e4da85feec8a0dba3f21e50d8a119f62831bd_mini_drone_frame_2025-jun-12_03-24-35pm-000_customizedview15170929896.png)
