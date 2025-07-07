@@ -108,7 +108,7 @@ Becasue i did not like all the designs that i was getting i decided to just go b
 So i went to Fusion and worked a while making the frame and its exactly as i want it!
 
 Frame                                                                                                         |  Canopy
-:-------------------------:|:-------------------------:|:---------------------:
+:-------------------------:|:-------------------------:
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e33bbe683cd663bb4d46281ef91bc87a583bc95_image.png)  |  ![Canopy]()
 
 
