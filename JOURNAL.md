@@ -107,8 +107,21 @@ Becasue i did not like all the designs that i was getting i decided to just go b
 
 So i went to Fusion and worked a while making the frame and its exactly as i want it!
 
-Frame                                                                                                         |  Canopy
+Frame                                                                                                         |  Frame sketch
 :-------------------------:|:-------------------------:
-![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e33bbe683cd663bb4d46281ef91bc87a583bc95_image.png)  |  ![Canopy]()
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e33bbe683cd663bb4d46281ef91bc87a583bc95_image.png)  |  ![sketch](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db3d484bfc9cff1896aff652c84888cb22d08fc7_image.png)
+
+Yeah so i'm really happy with the frame and because its done i moved on to the canopy oh yeah forgot to say im now making a 3D printed canopy and the camera mounts on that i think its really cool the design that i went with its really similar its from where the idea came from but from the betapfv air65 and 75 canopy type it was farely easy to make something that worked so i first made a paper mockup which suprisingly the first version worked! ofcourse the sizes were wrong but the general shape was exactly how i wanted it to be, so i made still a few versions out of paper and then moved onto the cad and then printing! yes im printing this in PLA verry thin but still pla so the first versions i just printed out of 3 layers and i could just bend it onto place but then after sometimes it was still too stiff and would just break so i had the briliant idea of putting it in hot watter! i had seen a video a while ago of someone just bending pla with hotwater so i made the print a bit thicker now like 4 layers just to add a little strongness but it worked really really well so i did still quite a few versions like adding a system where i can change the camera angle with just a few holes its really cool and workes also really well
+
+Heres a few photos of the cad model
+
+Canopy                                                                                                         |  Canopy sketch
+:-------------------------:|:-------------------------:
+![canopy](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6abd1d5847cac1d5c6d6e804608ec2617cd1eeed_image.png)  |  ![sketch](https://hc-cdn.hel1.your-objectstorage.com/s/v3/80cc1f0741e1b8d3156ea67a7092bb8a776d12da_screenshot_2025-07-07_171427.png)
 
 
+
+i have a video here if you want to see how it turned out i dont have photos of it when its folded 
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/d1ed1e1b700cc91764713f827c0f319424741f68_img_5182.mp4
+
+**Total time spent: 6h**
