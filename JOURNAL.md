@@ -1,7 +1,7 @@
 ---
-title: "BRUV_mini"
+title: "Firefly"
 author: "Lukas"
-description: "A tiny whoop drone with a custom frame! the name is still a WIP"
+description: "A tiny whoop drone with a custom frame!"
 created_at: "2025-06-6"
 ---
 
@@ -125,3 +125,11 @@ i have a video here if you want to see how it turned out i dont have photos of i
 https://hc-cdn.hel1.your-objectstorage.com/s/v3/d1ed1e1b700cc91764713f827c0f319424741f68_img_5182.mp4
 
 **Total time spent: 6h**
+
+# July 9th New name! and a few changes to the canopy
+
+So i decided to go with the name firefly idk why but i just liked it more then BRUV-mini
+
+Also made a few changes to the canopy you probably cant see anything becasue its still very similar but with a few reinforcements so yeah already printed out the new version and works well!
+
+![canopy](hc-cdn.hel1.your-objectstorage.com/s/v3/0b550a6346d935e49c751bb3ccb816a12138bdd6_image.png)
