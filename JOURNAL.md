@@ -133,3 +133,5 @@ So i decided to go with the name firefly idk why but i just liked it more then B
 Also made a few changes to the canopy you probably cant see anything becasue its still very similar but with a few reinforcements so yeah already printed out the new version and works well!
 
 ![canopy](hc-cdn.hel1.your-objectstorage.com/s/v3/0b550a6346d935e49c751bb3ccb816a12138bdd6_image.png)
+
+**Total time spent: 0:30h**
