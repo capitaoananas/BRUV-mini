@@ -8,7 +8,7 @@ A 75mm tinywhoop drone with a custom frame and canopy, made for indoors and outd
 
 - **Small** – fly indoors and outdoors with the 75mm wheelbase
 - **0802 motors** – Great speed and size!
-- **AIO board** – uses the AIO board from Betafpv which is really powerfull
+- **AIO board** – (All In One) FC+ESC+OSD+VTX+RX
 - **31mm props** – good efficiency and performance, aso can use 35mm props, no prop guards but who needs them?
 
 ---
