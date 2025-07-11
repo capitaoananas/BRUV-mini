@@ -50,6 +50,10 @@ Side             |  Top
 :-------------------------:|:-------------------------:
 ![canopy side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/abcf34d641db8a9b4d004b29a61fedbfd5331c0e_canopy.png)  |  ![canopy top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d414375da3554e1cd53a2cae3f38912c655ecbef_canopy_top.png)
 
+Side (3D printed)             |  Side with frame (3D printed)
+:-------------------------:|:-------------------------:
+![canopy side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fe20e0b063aa83a01c2feb1716fd3b4d9e01f41b_img_5200.jpeg)  |  ![canopy with frame side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3b33ce6f77d228e442521f82041bf9dea0f1174a_img_5201.jpeg)
+
 ---
 
 ### Final renders
