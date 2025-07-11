@@ -41,11 +41,15 @@ Side             |  Top
 :-------------------------:|:-------------------------:
 ![frame side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ea2537ecb5e19c78fb4c8cddb91714b401ac1c72_frame.png)  |  ![Frame top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c21fe04c7c044760697b5a31b2396f014f00021a_frame_top.png)
 
+---
+
 ### Canopy
 
 Side             |  Top
 :-------------------------:|:-------------------------:
 ![canopy side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/abcf34d641db8a9b4d004b29a61fedbfd5331c0e_canopy.png)  |  ![canopy top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d414375da3554e1cd53a2cae3f38912c655ecbef_canopy_top.png)
+
+---
 
 ### Final renders
 
