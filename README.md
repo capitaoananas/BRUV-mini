@@ -16,5 +16,5 @@ A 75mm tinywhoop that is designed to be used indoors and outdoors on good condit
 | Carbon Fiber Sheet         | 1        | $21.80 | [aliexpress](https://pt.aliexpress.com/item/1005008721256378.html?spm=a2g0o.productlist.main.2.22c0FSlDFSlDsk&algo_pvid=319340c4-525e-4c4f-b41b-d93c9f659a18&algo_exp_id=319340c4-525e-4c4f-b41b-d93c9f659a18-1&pdp_ext_f=%7B%22order%22%3A%22887%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005008721256378%22%2C%22orig_item_id%22%3A%221005007050060549%22%7D&pdp_npi=4%40dis%21EUR%2110.65%215.33%21%21%2187.50%2143.75%21%402103963717520685990862144e7df6%2112000046389966411%21sea%21PT%216372042523%21X&curPageLogUid=yWX0ACtNgUUn&utparam-url=scene%3Asearch%7Cquery_from%3A)                                           |
 | Radiomaster pocket controller | 1 | $76.36 | [aliexpress](https://pt.aliexpress.com/item/1005009135876837.html?spm=a2g0o.productlist.main.3.52bb7fe1c8DHHV&algo_pvid=ca3d933c-015c-4566-86b1-602b0e289ea1&algo_exp_id=ca3d933c-015c-4566-86b1-602b0e289ea1-2&pdp_ext_f=%7B%22order%22%3A%22220%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2183.60%2155.18%21%21%2183.60%2155.18%21%40210384cc17522254864678855e0c14%2112000048044361011%21sea%21PT%216372042523%21X&curPageLogUid=Iq4eLOUrwulL&utparam-url=scene%3Asearch%7Cquery_from%3A) |
 
-Total: `$148.99`  
+Total: `$247.15`  
 
