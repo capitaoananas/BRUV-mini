@@ -1,8 +1,18 @@
-# BRUV-mini
+# Firefly Tinywhoop
 
-A 75mm tinywhoop that is designed to be used indoors and outdoors on good conditions with a custom designed frame
+A 75mm tinywhoop drone with a custom frame and canopy
 
-## BOM
+---
+
+## Features
+
+- **Small** – fly indoors and outdoors
+- **0802 motors** – Great speed and size!
+- **AIO board** – uses the AIO board from Betafpv which is really powerfull
+
+---
+
+## Bill of Materials (BOM)
 
 | Part                         | Quantity | Price  | Link                                                                                                                       | Notes                                                           |
 | ---------------------------- | -------- | ------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -18,4 +28,7 @@ A 75mm tinywhoop that is designed to be used indoors and outdoors on good condit
 
 Total: `$247.15` + shipping
 so needed ~$270+
+
+
+---
 
